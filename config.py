@@ -18,9 +18,9 @@ OWNER_USERNAME = getenv("OWNER_USERNAME","owner_of_pr")
 # --------------------------------------------------------
 BOT_USERNAME = getenv("BOT_USERNAME" , "all_priya_bot")
 # --------------------------------------------------------
-BOT_NAME = getenv("BOT_NAME" , "MUSKAN")
+BOT_NAME = getenv("BOT_NAME" , "PRIYA ꭙ MUSIC")
 # ---------------------------------------------------------
-ASSUSERNAME = getenv("ASSUSERNAME" , "pr_x_music_asstent")
+ASSUSERNAME = getenv("ASSUSERNAME" , "PR_MUSIC_ASSISTANT")
 # ---------------------------------------------------------
 
 
