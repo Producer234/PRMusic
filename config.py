@@ -14,13 +14,13 @@ API_HASH = getenv("API_HASH", "8817c95b20fca899462336cdf36dd958")
 # ------------------------------------------------------
 BOT_TOKEN = getenv("BOT_TOKEN", "6980506253:AAHWI4dIV8XJEQM3Wo-ndWKf19RmFulKWY8")
 # -------------------------------------------------------
-OWNER_USERNAME = getenv("OWNER_USERNAME","itz_Lucky_Raja")
+OWNER_USERNAME = getenv("OWNER_USERNAME","owner_of_pr")
 # --------------------------------------------------------
-BOT_USERNAME = getenv("BOT_USERNAME" , "LuckyXMusic_Bot")
+BOT_USERNAME = getenv("BOT_USERNAME" , "all_priya_bot")
 # --------------------------------------------------------
 BOT_NAME = getenv("BOT_NAME" , "MUSKAN")
 # ---------------------------------------------------------
-ASSUSERNAME = getenv("ASSUSERNAME" , "The_LuckyX")
+ASSUSERNAME = getenv("ASSUSERNAME" , "pr_x_music_asstent")
 # ---------------------------------------------------------
 
 
@@ -53,7 +53,7 @@ HEROKU_API_KEY = getenv("HEROKU_API_KEY")
 # ----------------------------------------------------------------
 UPSTREAM_REPO = getenv(
     "UPSTREAM_REPO",
-    "https://github.com/muktermolla016/Testing-",
+    "https://github.com/Producer234/PRMusic",
 )
 UPSTREAM_BRANCH = getenv("UPSTREAM_BRANCH", "main")
 GIT_TOKEN = getenv(
@@ -67,8 +67,8 @@ GIT_TOKEN = getenv(
 
 # ------------------------------------------------------------------------
 # -------------------------------------------------------------------------
-SUPPORT_CHANNEL = getenv("SUPPORT_CHANNEL", "https://t.me/Luckyxupdate")
-SUPPORT_CHAT = getenv("SUPPORT_CHAT", "https://t.me/LuckyxSupport")
+SUPPORT_CHANNEL = getenv("SUPPORT_CHANNEL", "https://t.me/pr_all_bot")
+SUPPORT_CHAT = getenv("SUPPORT_CHAT", "https://t.me/pr_all_bot_Support")
 # ------------------------------------------------------------------------------
 # -------------------------------------------------------------------------------
 
